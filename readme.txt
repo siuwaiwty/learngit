@@ -1,2 +1,2 @@
 hello,world
-git is free soft
+git is free distrributed soft
